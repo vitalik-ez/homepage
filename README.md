@@ -1,3 +1,3 @@
 # Homepage
-My very own personal website. Basically this is just a résumé.
+Personal website: Yeshor Vitaliy.  
 https://vitalik-ez.github.io/homepage/
